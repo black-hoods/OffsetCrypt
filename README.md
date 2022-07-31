@@ -1,4 +1,4 @@
-# MorseJS
-📡 A simple tool to convert text to Morse code and Morse code to text.
+# OffsetCrypt
+🧭 A JS tool to encrypt / parse message base on a simple character shifting system.
 
-[Demo](https://codepen.io/tsbits/pen/xxWprEv)
+<!-- [Demo](https://codepen.io/tsbits/pen/xxWprEv) -->
